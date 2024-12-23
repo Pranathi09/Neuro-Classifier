@@ -1,4 +1,4 @@
-# Brain_Tumor_Detection - Neuro Classifier Using Machine Learning
+# Neuro Classifier Using Machine Learning
 
 The **Neuro Classifier** is a web app designed to quickly and accurately detect and classify brain tumors using advanced machine learning algorithms. It analyzes MRI scans, providing an efficient tool for early diagnosis and improving patient care. 
 
